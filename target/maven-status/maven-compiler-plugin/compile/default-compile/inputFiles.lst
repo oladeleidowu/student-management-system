@@ -1,0 +1,9 @@
+/Users/abimbolaidowu/Documents/SpringBootProjects/personal-projects/student-management-system/src/main/java/com/bimcode/studentmanagementsystem/service/StudentService.java
+/Users/abimbolaidowu/Documents/SpringBootProjects/personal-projects/student-management-system/src/main/java/com/bimcode/studentmanagementsystem/respository/StudentRepository.java
+/Users/abimbolaidowu/Documents/SpringBootProjects/personal-projects/student-management-system/src/main/java/com/bimcode/studentmanagementsystem/controller/StudentController.java
+/Users/abimbolaidowu/Documents/SpringBootProjects/personal-projects/student-management-system/src/main/java/com/bimcode/studentmanagementsystem/service/impl/StudentServiceImpl.java
+/Users/abimbolaidowu/Documents/SpringBootProjects/personal-projects/student-management-system/src/main/java/com/bimcode/studentmanagementsystem/dto/BaseResponse.java
+/Users/abimbolaidowu/Documents/SpringBootProjects/personal-projects/student-management-system/src/main/java/com/bimcode/studentmanagementsystem/constants/ExtendedConstants.java
+/Users/abimbolaidowu/Documents/SpringBootProjects/personal-projects/student-management-system/src/main/java/com/bimcode/studentmanagementsystem/entity/Student.java
+/Users/abimbolaidowu/Documents/SpringBootProjects/personal-projects/student-management-system/src/main/java/com/bimcode/studentmanagementsystem/StudentManagementSystemApplication.java
+/Users/abimbolaidowu/Documents/SpringBootProjects/personal-projects/student-management-system/src/main/java/com/bimcode/studentmanagementsystem/dto/DefaultApiResponse.java
